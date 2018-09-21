@@ -1,1 +1,1 @@
-Bo the dog - first animation sprite
+Bo the dog -  "give paw" sprite sheet animation
